@@ -1,0 +1,11 @@
+{
+  "label": "claude-sonnet-4-6",
+  "judge_model": "gpt-5.1",
+  "n_runs": 3,
+  "vdr": 1.0,
+  "vdr_yes": 21,
+  "vdr_total": 21,
+  "oi": 0.0603,
+  "oi_fp": 51,
+  "oi_denominator": 846
+}
